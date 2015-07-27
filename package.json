@@ -1,0 +1,29 @@
+{
+    "name": "flatlandersgemstore",
+    "version": "1.0.0",
+    "description": "learning angular project",
+    "main": "app.js",
+    "scripts": {
+        "postinstall": "node_modules/bower/bin/bower install",
+        "start": "",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/hugoiuri/flatlandersGemStore.git"
+    },
+    "keywords": [
+        "node",
+        "angular",
+        "bootstrap"
+    ],
+    "author": "Hugo Iuri <hugoraiuri@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/hugoiuri/flatlandersGemStore/issues"
+    },
+    "homepage": "https://github.com/hugoiuri/flatlandersGemStore#readme",
+    "devDependencies": {
+        "bower": "^1.4.1"
+    }
+}
